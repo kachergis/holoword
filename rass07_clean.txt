@@ -1,0 +1,316 @@
+block	prime	fragment	posprime	ctrlprime	blckprime
+minute	mantle	m _ n t _ e	0.8	0.85	0.35
+second	spends	s _ e n d _	0.8	0.6	0.25
+vegetable	vertebral	v e _ t e b _ _ l	0.5	0.35	0
+newton	notion	n _ t _ o n	0.85	0.75	0.4
+computer	commuter	c o _ m _ t e r	0.8	0.75	0.4
+yearly	yeasts	y e a _ _ s	0.7	0.65	0.3
+sheets	shades	s h _ _ e s	0.55	0.6	0.25
+potato	portal	p o _ t a _	0.6	0.4	0.1
+failure	fatigue	f a _ i _ u e	0.85	0.7	0.4
+expensive	expressed	e x p _ e _ s _ d	0.95	0.85	0.55
+folder	foiled	f o _ l _ d	0.85	0.8	0.5
+flakes	flicks	f l _ _ k s	0.8	0.85	0.55
+halloween	harrowing	h a _ _ o w i n _	0.5	0.6	0.3
+shampoo	seafood	s _ a _ o o _	0.25	0.5	0.2
+cheese	chiefs	c h _ e _ s	0.8	0.35	0.1
+indian	infant	i n _ a n _	0.75	0.35	0.1
+animal	aerial	a _ _ i a l	0.65	0.3	0.05
+disaster	distaste	d i s _ a s t _	0.8	0.5	0.25
+dishes	diesel	d i _ s e _	0.75	0.45	0.2
+pancakes	panicked	p a n _ c k e _	0.75	0.45	0.2
+thought	thrusts	t h _ u _ t s	0.9	0.65	0.4
+instrument	instituted	i n s t _ _ u _ e d	0.9	0.7	0.45
+standing	stunning	s t _ _ n i n g	0.9	0.75	0.5
+daughter	draughts	d _ a _ g h t s	0.95	0.85	0.6
+broccoli	bifocals	b _ _ o c _ l s	0.3	0.25	0
+branch	breath	b r _ a _ h	0.6	0.65	0.4
+nervous	narrows	n _ _ r o _ s	0.3	0.35	0.1
+priest	prices	p _ i _ e s	0.3	0.35	0.1
+rotten	rotate	r o _ _ t _	0.35	0.4	0.15
+empire	emerge	e m _ r _ e	0.2	0.3	0.05
+drawer	dreary	d r _ a _ _	0.4	0.55	0.3
+people	peeled	p e _ l e _	0.35	0.5	0.25
+destroy	distort	d _ s t _ r _	0.15	0.35	0.1
+private	printed	p r i _ t e _	0.15	0.55	0.3
+kangaroo	kingdoms	k _ n g _ o _ s	0.9	0.35	0.15
+precise	preface	p r e _ _ c e	0.85	0.35	0.15
+painter	partner	p a _ _ n e r	1	0.55	0.35
+hungry	hurray	h u _ r _ y	0.65	0.3	0.1
+stoplight	strolling	s t _ o _ l i n _	0.9	0.55	0.35
+lawyer	lowers	l _ w _ r s	0.95	0.65	0.45
+leaves	levels	l _ v e _ s	0.85	0.6	0.4
+muscle	misled	m _ s l e _	0.65	0.4	0.2
+yellow	yields	y _ e l _ _	0.55	0.3	0.1
+cigarette	congruent	c _ _ g r _ e n t	0.95	0.75	0.55
+flower	flavors	f l _ _ o r s	0.45	0.25	0.05
+mustard	musical	m u s _ _ a _	0.45	0.25	0.05
+pledge	pleads	p l e _ d _	0.65	0.45	0.25
+nickel	nieces	n i _ c _ s	0.4	0.25	0.05
+parent	parrot	p a _ r _ t	0.85	0.7	0.5
+trailer	tripled	t r i _ l e _	0.75	0.6	0.4
+castle	cradle	c _ a _ l e	0.5	0.4	0.2
+staple	stages	s _ a _ e s	0.75	0.7	0.5
+country	century	c _ n t _ r y	0.8	0.8	0.6
+leader	ledger	l _ d _ e r	0.75	0.75	0.55
+jealousy	jeopardy	j e _ _ a _ d y	0.7	0.75	0.55
+puzzle	pulled	p u _ l _ _	0.65	0.75	0.55
+asleep	allege	a l _ e _ _	0.5	0.65	0.45
+measure	mascara	m _ s _ a r _	0.1	0.25	0.05
+problem	proverb	p r o _ e _ _	0.45	0.6	0.4
+france	frames	f _ a _ e s	0.4	0.7	0.5
+person	piston	p _ s _ o n	0.8	0.15	0
+fortune	forties	f o _ t _ e s	0.7	0.25	0.1
+bicycle	brittle	b _ i _ _ l e	0.6	0.2	0.05
+careful	clarify	c _ a r _ f _	0.9	0.5	0.35
+barbecue	backbone	b a _ k b _ _ e	0.85	0.5	0.35
+breakfast	breakaway	b r e a k _ _ a _	0.65	0.35	0.2
+explode	exalted	e x _ l _ _ d	0.45	0.15	0
+husband	hustled	h u s _ _ e d	0.9	0.6	0.45
+language	lineages	l _ n _ a g e s	0.45	0.2	0.05
+shower	swerve	s w _ r _ e	0.45	0.2	0.05
+toilet	tilted	t _ l _ e d	0.85	0.6	0.45
+balloon	balcony	b a l _ o n _	0.35	0.15	0
+bracelet	brackets	b _ a c _ e t s	0.55	0.35	0.2
+divide	derive	d e _ i _ e	0.45	0.25	0.1
+finger	fibers	f i _ _ r s	0.5	0.3	0.15
+listen	lessen	l _ _ s e n	0.9	0.7	0.55
+tornado	torment	t o r _ _ n _	0.6	0.4	0.25
+purple	propel	p r _ p _ l	0.95	0.8	0.65
+middle	mildew	m i _ d e _	0.6	0.5	0.35
+christ	chains	c h _ i _ s	0.3	0.25	0.1
+motorcycle	monopolies	m o _ o p _ l _ e s	0.85	0.8	0.65
+neutron	nesting	n e _ t _ n _	0.45	0.45	0.3
+upstairs	unsteady	u _ s t _ a d _	0.1	0.15	0
+heaven	having	h a v _ n _	0.7	0.8	0.65
+strawberry	stewardess	s t _ w a r _ e _ s	0.8	0.15	0.05
+mountain	mounting	m o u _ t _ n _	0.75	0.2	0.1
+writer	wrists	w _ i _ t s	0.75	0.25	0.15
+crocodile	clockwise	c _ o c k _ i _ e	0.75	0.3	0.2
+freedom	forearm	f _ r e _ _ m	0.8	0.35	0.25
+highway	haughty	h _ _ g h _ y	0.75	0.3	0.2
+muffin	mutiny	m u _ i n _	0.8	0.35	0.25
+objective	obscenity	o b _ c e _ i t _	0.6	0.15	0.05
+recipe	recoil	r e c _ i _	0.6	0.15	0.05
+saucer	spacer	s _ a c _ r	0.7	0.25	0.15
+sidewalk	snowfall	s _ o w _ a _ l	0.85	0.4	0.3
+tissue	tinsel	t i _ s e _	0.75	0.3	0.2
+headache	hardship	h a _ d _ h i _	0.55	0.15	0.05
+innocent	invoices	i n _ o _ c e s	0.6	0.2	0.1
+alligator	alienated	a l i _ _ a t _ d	0.45	0.1	0
+hurricane	heritages	h _ r i _ a _ e s	0.45	0.1	0
+picture	procure	p _ _ c u r e	0.9	0.55	0.45
+better	brewer	b _ e _ e r	0.4	0.1	0
+chicken	chuckle	c h _ c k _ e	0.9	0.6	0.5
+maximum	marxist	m a _ x i _ _	0.45	0.15	0.05
+orange	ornate	o r _ a _ e	0.5	0.2	0.1
+silver	sailor	s _ i l _ r	0.45	0.2	0.1
+cancer	crater	c _ a _ e r	0.65	0.45	0.35
+decision	devising	d e _ i s i n _	0.35	0.15	0.05
+guitar	gutter	g u t _ _ r	0.8	0.6	0.5
+health	herald	h e _ a l _	0.55	0.35	0.25
+pickle	pocket	p _ c k e _	0.8	0.6	0.5
+present	percent	p _ r _ e n t	0.4	0.2	0.1
+spider	sprite	s p _ i _ e	0.5	0.3	0.2
+stomach	stamina	s t _ m _ _ a	0.65	0.45	0.35
+storage	scourge	s _ o _ r g e	0.45	0.25	0.15
+sunset	sanest	s _ n _ s t	0.3	0.1	0
+gamble	giblet	g _ b l e _	0.7	0.55	0.45
+hamburger 	homebound	h _ m e b _ u _ d	0.65	0.5	0.4
+carpet	corpse	c _ r p _ e	0.4	0.3	0.2
+cotton	colony	c o _ _ n _	0.35	0.25	0.15
+subtract	subtlety	s u b t _ _ t _	0.2	0.1	0
+winter	wither	w _ t _ e r	0.4	0.3	0.2
+bucket	buckle	b _ c k _ e	0.95	0.9	0.8
+period	parody	p _ r o d _	0.4	0.35	0.25
+smooth	scotch	s _ o t _ h	0.35	0.3	0.2
+basket	blasts	b _ a s _ s	0.5	0.5	0.4
+defense	descent	d e _ _ e n _	0.2	0.2	0.1
+ignore	insure	i n _ _ r e	0.1	0.1	0
+poison	photon	p _ o _ o n	0.4	0.4	0.3
+shopping	scooping	s _ _ o p i n g	0.65	0.65	0.55
+spaghetti	strategic	s t _ a t e _ i _	0.1	0.1	0
+street	stereo	s t _ r e _	0.7	0.7	0.6
+trouble	tribute	t r _ _ u _ e	0.25	0.25	0.15
+meeting	mention	m e _ t i _ n	0.2	0.25	0.15
+sorority	scarcity	s _ _ r _ i t y	0.05	0.1	0
+twelve	towels	t _ w e _ s	0.65	0.75	0.65
+weight	wretch	w _ e _ _ h	0.45	0.55	0.45
+jewish	jesuit	j e _ _ i _	0.6	0.1	0.05
+thread	thawed	t h _ _ e d	0.6	0.1	0.05
+circus	clicks	c _ i c _ s	0.75	0.3	0.25
+disease	diocese	d i _ _ e s e	0.55	0.1	0.05
+fright	fringe	f r i _ g _	0.75	0.3	0.25
+office	ounces	o _ _ c e s	0.7	0.25	0.2
+rabbit	rabies	r a b i _ _	0.65	0.2	0.15
+thirsty	thrifty	t h _ i _ t y	0.9	0.5	0.45
+forget	forest	f o _ e _ t	0.6	0.25	0.2
+sheriff	servile	s _ r _ i _ e	0.4	0.05	0
+supper	stupor	s _ u p _ r	0.55	0.2	0.15
+dagger	dealer	d _ a _ e r	0.85	0.55	0.5
+pudding	pausing	p _ u _ i n g	0.5	0.2	0.15
+shovel	shield	s h _ e l _	0.7	0.4	0.35
+before	belfry	b e _ f r _	0.5	0.25	0.2
+clothes	clotted	c l o _ t _ _	0.45	0.2	0.15
+different	divergent	d i _ e r _ _ n t	0.35	0.1	0.05
+monkey	moaned	m o _ n e _	0.35	0.1	0.05
+mystery	moisten	m _ _ s t e _	0.5	0.25	0.2
+republican	rebuilding	r e _ u i l _ i n _	0.5	0.25	0.2
+square	squeal	s q u _ a _	0.3	0.05	0
+account	accents	a _ c _ n t s	0.95	0.75	0.7
+blonde	belong	b _ l o n _	0.4	0.2	0.15
+bother	bolted	b o _ t e _	0.6	0.4	0.35
+closing	calming	c _ l _ i n g	0.7	0.5	0.45
+embarrass	escapades	e s _ a _ a _ e s	0.6	0.4	0.35
+grandma	groaned	g r _ a n _ _	0.35	0.15	0.1
+letters	leather	l e _ t _ e r	0.45	0.25	0.2
+pimple	pumped	p _ m p e _	0.6	0.4	0.35
+shallow	shadows	s _ a _ o w s	0.8	0.6	0.55
+crayon	canyon	c a _ y o _	0.95	0.8	0.75
+football	formally	f o _ _ a l l _	0.2	0.05	0
+perfume	presume	p _ e _ u m e	0.75	0.6	0.55
+circle	curled	c _ r l e _	0.35	0.25	0.2
+seller	shells	s _ e _ l s	0.7	0.6	0.55
+stream	stormy	s t _ r m _	0.9	0.8	0.75
+subject	stubble	s _ u _ b _ e	0.5	0.4	0.35
+disagree	discreet	d i s _ r _ e _	0.15	0.1	0.05
+luggage	laughed	l _ u g _ e _	0.15	0.1	0.05
+choice	chrome	c h _ o _ e	0.25	0.25	0.2
+church	chorus	c h _ _ u _	0.05	0.05	0
+monster	mastery	m _ s t e r _	0.85	0.85	0.8
+scream	schema	s c _ _ m _	0.2	0.2	0.15
+unknown	unbound	u n _ o _ n _	0.05	0.05	0
+welcome	wedlock	w e _ l _ c _	0.05	0.05	0
+amount	almost	a _ _ o _ t	0.05	0.1	0.05
+driver	droves	d r _ v _ s	0.85	0.9	0.85
+necklace	newcomer	n e _ c _ _ e r	0	0.05	0
+airplane	alliance	a _ _ i a n _ e	0.65	0.15	0.15
+florida	flirted	f l _ r _ _ d	0.6	0.1	0.1
+punishment	publishers	p u _ _ i s h e _ s	0.65	0.15	0.15
+system	styles	s _ y _ e s	1	0.5	0.5
+explain	exiling	e x _ l i n _	0.6	0.15	0.15
+marriage	maritime	m a r _ _ i _ e	0.5	0.05	0.05
+minority	ministry	m i n _ _ t _ y	0.6	0.15	0.15
+modern	maiden	m _ _ d _ n	0.75	0.3	0.3
+police	pelvic	p _ l _ i c	0.5	0.05	0.05
+blanket	bayonet	b a _ _ n e t	0.55	0.15	0.15
+decrease	deceased	d e _ e a s _ _	0.8	0.4	0.4
+washer	weasel	w _ a s e _	0.7	0.3	0.3
+forward	forbade	f o r _ a d _	0.7	0.35	0.35
+mustache	menarche	m _ _ a _ c h e	0.35	0	0
+airport	airflow	a i r _ _ o _	0.3	0	0
+depend	denied	d e _ _ e d	0.7	0.4	0.4
+disappear	disrupted	d i s _ _ p _ e d	0.3	0	0
+energy	enters	e n _ e r _	0.8	0.5	0.5
+manners	mariner	m a _ _ n _ r	0.3	0	0
+loving	lotion	l o _ i _ n	0.3	0.05	0.05
+cautious	counties	c _ u _ t i _ s	0.2	0	0
+collect	closest	c _ o _ e _ t	0.3	0.1	0.1
+doctor	donors	d o _ o _ s	0.25	0.05	0.05
+ketchup	kneecap	k _ e _ c _ p	0.25	0.05	0.05
+mirror	memoir	m _ _ o _ r	0.25	0.05	0.05
+sticky	sickly	s _ c k _ y	0.85	0.65	0.65
+abnormal	arboreal	a _ b o r _ a l	0.15	0	0
+addition	advising	a d _ i _ i n _	0.15	0	0
+always	alarms	a l a _ _ s	0.15	0	0
+bottom	bosoms	b o _ o _ s	0.15	0	0
+chocolate	checklist	c h _ c _ l i _ t	0.2	0.05	0.05
+coffee	cohere	c o _ e _ e	0.15	0	0
+dinosaur	downpour	d _ _ n _ o u r	0.15	0	0
+direct	deduct	d e _ _ c t	0.8	0.65	0.65
+dollars	donates	d o _ a _ _ s	0.2	0.05	0.05
+winner	whined	w _ i n e _	0.7	0.55	0.55
+answer	assert	a _ s _ r _	0.45	0.35	0.35
+because	behaves	b e _ a _ _ s	0.15	0.05	0.05
+buffalo	baffled	b _ f f l _ _	0.6	0.5	0.5
+exercise	edgewise	e _ _ e _ i s e	0.1	0	0
+sorrow	screws	s _ r _ w s	0.75	0.65	0.65
+strong	saturn	s _ t _ r n	0.85	0.75	0.75
+together	tolerate	t o _ e _ _ t e	0.1	0	0
+curtains	carvings	c _ r _ i n _ s	0.05	0	0
+diamond	demoted	d _ m o _ _ d	0.05	0	0
+princess	predicts	p r _ _ i c _ s	0.05	0	0
+sneeze	seeped	s _ e _ e _	0.05	0	0
+candle	cables	c a _ l _ s	0.15	0.15	0.15
+ending	ethnic	e _ _ n i _	0	0	0
+exhale	enable	e _ a _ l e	0	0.05	0.05
+pencil	perils	p e _ i _ s	0.75	0.1	0.15
+argument	arrogant	a _ r _ g _ n t	0.85	0.35	0.4
+secretary	specialty	s _ e c _ a _ t y	0.9	0.4	0.45
+everything	expediting	e _ p e _ _ t i n g	0.5	0.05	0.1
+fishing	fission	f i _ s i _ _	0.4	0	0.05
+friend	furies	f _ r i _ s	0.45	0.05	0.1
+outdoors	outburst	o u t _ _ r s _	0.45	0.1	0.15
+proper	parole	p _ r o _ e	0.85	0.5	0.55
+reason	reborn	r e _ o _ n	0.45	0.1	0.15
+business	bustling	b u s _ _ i n _	0.35	0.05	0.1
+female	feudal	f e _ _ a l	0.3	0	0.05
+outlet	ousted	o u _ t e _	0.35	0.05	0.1
+scary	scrap	s c _ a _	0.6	0.3	0.35
+stripe	satire	s _ t _ r e	1	0.7	0.75
+summer	superb	s u _ e r _	0.5	0.2	0.25
+volcano	violate	v _ o l a _ _	0.85	0.55	0.6
+excuse	exacts	e x _ c _ s	0.25	0	0.05
+morals	mortal	m o r _ _ l	0.5	0.25	0.3
+pyramid	permits	p _ r m i _ s	0.75	0.5	0.55
+school	should	s h o _ l _	0.6	0.35	0.4
+tennis	tonics	t _ n i _ s	0.3	0.05	0.1
+adults	amulet	a _ u l _ t	0.25	0.05	0.1
+bathroom	bedrooms	b _ _ r o o _ s	0.45	0.25	0.3
+glasses	gloated	g l _ a _ e _	0.25	0.05	0.1
+honest	hounds	h o _ n _ s	0.3	0.1	0.15
+noodles	nucleus	n _ _ l e _ s	0.2	0	0.05
+sympathy	symptoms	s _ m p t _ _ s	0.55	0.35	0.4
+aluminum	assuming	a _ _ u m i n _	0.15	0	0.05
+chemistry	champions	c h _ m _ i _ n s	0.25	0.1	0.15
+hammer	heater	h _ a _ e r	0.7	0.55	0.6
+repeat	reaped	r e _ p e _	0.3	0.15	0.2
+tomorrow	tomatoes	t o m _ _ o _ s	0.95	0.8	0.85
+artery	armory	a _ _ o r _	0.25	0.15	0.2
+planet	plenty	p l _ n t _	0.9	0.85	0.9
+record	reckon	r e c _ o _	0.05	0	0.05
+turtle	turned	t u r _ e _	0.35	0.3	0.35
+mother	mouths	m o _ t _ s	0.15	0.15	0.2
+nephew	nymphs	n _ _ p h _	0.75	0.1	0.2
+pretty	partly	p _ r t _ y	0.95	0.45	0.55
+mistake	massage	m _ _ s a _ e	0.75	0.3	0.4
+scratch	stealth	s _ _ a _ t h	0.5	0.05	0.15
+beginning	beguiling	b e _ _ i _ i n g	0.4	0	0.1
+english	eclipse	e _ l i _ s _	0.4	0	0.1
+garbage	garages	g a _ a _ e s	0.65	0.25	0.35
+change	chapel	c h a _ e _	0.8	0.5	0.6
+science	scenery	s c _ n e _ _	0.75	0.45	0.55
+jacket	juices	j _ _ c _ s	0.85	0.6	0.7
+turkey	toured	t _ u r e _	0.35	0.1	0.2
+wander	waters	w a _ e r _	0.95	0.7	0.8
+understand	underrated	u n d e r _ a _ _ d	0.25	0.05	0.15
+ballet	battle	b a _ _ l _	0.15	0	0.1
+cracker	croaked	c r _ a k e _	0.4	0.3	0.4
+package	packets	p a c _ e _ s	0.4	0.3	0.4
+butterfly	brotherly	b _ _ t _ e r l y	0.05	0	0.1
+forever	forgery	f o r _ e _ _	0.3	0.25	0.35
+window	widows	w _ d o _ s	0.9	0.85	0.95
+dolphin	dashing	d _ _ h i n _	0	0	0.1
+perfect	precept	p _ e _ e _ t	0.05	0.25	0.35
+boring	brings	b _ i _ g s	0.65	0.05	0.2
+donkey	drones	d _ o n _ s	0.55	0.15	0.3
+waiter	wraith	w _ a i t _	0.4	0	0.15
+borrow	border	b o r _ _ r	0.85	0.5	0.65
+remember	reviewer	r e _ _ e _ e r	0.4	0.05	0.2
+kidnap	kindly	k i _ d _ _	0.65	0.4	0.55
+stairs	stasis	s t a _ i _	0.15	0	0.15
+helper	healed	h e _ l _ _	0.35	0.25	0.4
+graduation	grindstone	g r _ _ d _ t o n e	0.8	0.15	0.35
+negative	nineteen	n i _ e t _ e _	0.9	0.25	0.45
+weather	wealthy	w e a _ t h _	0.95	0.4	0.6
+number	nutmeg	n u _ m e _	0.45	0	0.2
+squirrel	sprinkle	s _ r i _ _ l e	0.55	0.15	0.35
+strange	strains	s _ r a _ n s	0.9	0.5	0.7
+rocket	recent	r _ c e _ t	0.65	0.3	0.5
+newspaper	necessary	n e _ e s _ a r _	0.75	0.45	0.65
+behind	blinds	b _ _ n d s	0.9	0.75	0.95
+teacher	treated	t _ e a _ e _	0.4	0.25	0.45
+stupid	stumps	s _ u _ p s	0.3	0.25	0.45
+sister	shiver	s _ i _ e r	0.65	0.3	0.55
+creativity	criticisms	c r _ t i _ i _ m s	0.55	0.4	0.65
+inside	ignite	i _ n i _ e	0.9	0.1	0.4
